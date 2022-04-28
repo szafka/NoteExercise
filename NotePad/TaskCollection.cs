@@ -9,7 +9,6 @@ namespace NotePad
     public class TaskCollection
     {
         public List<Task> Tasks = new List<Task>();
-        public int rumNum;
 
         public void AddTask(Task task)
         {

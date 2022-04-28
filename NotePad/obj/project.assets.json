@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PMC687\\Desktop\\Nowy folder\\NotePad\\NotePad.csproj",
+      "projectUniqueName": "C:\\Dokumenty\\NoteExercise\\NotePad\\NotePad.csproj",
       "projectName": "NotePad",
-      "projectPath": "C:\\Users\\PMC687\\Desktop\\Nowy folder\\NotePad\\NotePad.csproj",
+      "projectPath": "C:\\Dokumenty\\NoteExercise\\NotePad\\NotePad.csproj",
       "packagesPath": "C:\\Users\\PMC687\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PMC687\\Desktop\\Nowy folder\\NotePad\\obj\\",
+      "outputPath": "C:\\Dokumenty\\NoteExercise\\NotePad\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PMC687\\AppData\\Roaming\\NuGet\\NuGet.Config",
