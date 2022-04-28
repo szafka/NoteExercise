@@ -1,0 +1,15 @@
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\bin\Debug\net6.0\NotePad.exe
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\bin\Debug\net6.0\NotePad.deps.json
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\bin\Debug\net6.0\NotePad.runtimeconfig.json
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\bin\Debug\net6.0\NotePad.dll
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\bin\Debug\net6.0\NotePad.pdb
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.csproj.AssemblyReference.cache
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.AssemblyInfoInputs.cache
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.AssemblyInfo.cs
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.csproj.CoreCompileInputs.cache
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.dll
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\refint\NotePad.dll
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.pdb
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\NotePad.genruntimeconfig.cache
+C:\Dokumenty\Notatnik Ćwiczenie\NotePadExercise\NotePad\obj\Debug\net6.0\ref\NotePad.dll
